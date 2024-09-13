@@ -4,3 +4,4 @@
 [lab 3]https://colab.research.google.com/drive/1JPWBuxJ630zFLv1HxCUKNbxxZlt4RolB#scrollTo=L2cBNQZ1pDPQ
 [lab 4]https://colab.research.google.com/drive/1GDqttIJkEfD_jvdS6D8uoMPd0LRCkEbb#scrollTo=J03ABf1gnkZq
 [lab 5]https://colab.research.google.com/drive/1WFWh52fDL60WA4Dn9W0RpqbdQPKwIv8l
+[lab 6]https://colab.research.google.com/drive/1c0Azfrr62QSc_3t-D5QPs9nK8fgllV74?authuser=1#scrollTo=df7hk3mZol-1
