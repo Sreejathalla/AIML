@@ -5,3 +5,4 @@
 [lab 4]https://colab.research.google.com/drive/1GDqttIJkEfD_jvdS6D8uoMPd0LRCkEbb#scrollTo=RDsHBh0o9m8R
 [lab 5]https://colab.research.google.com/drive/1WFWh52fDL60WA4Dn9W0RpqbdQPKwIv8l
 [lab 6]https://colab.research.google.com/drive/1c0Azfrr62QSc_3t-D5QPs9nK8fgllV74?authuser=1#scrollTo=P8TiRPeUy6Qe
+[lab 7]https://colab.research.google.com/drive/1uQQQfKnera_cskPZt0JlyMxG2i_JwCga?authuser=1#scrollTo=JcJyNotkyBj4
